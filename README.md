@@ -34,7 +34,7 @@ If you use these codes for your work, please cite the following paper:
 Cunzhi Zhao and Xingpeng Li, “Microgrid Optimal Energy Scheduling Considering Neural Network based Battery Degradation”, *IEEE Transactions on Power Systems*, early access, Jan. 2023.
 
 
-Paper website: <a class="off" href="/papers/CunzhiZhao-NNBD-MDS/"  target="_blank">https://rpglab.github.io/papers/CunzhiZhao-NNBD-MDS/</a>
+Paper website: https://rpglab.github.io/papers/CunzhiZhao-NNBD-MDS/
 
 
 ## Contributions:
